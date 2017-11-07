@@ -1,0 +1,57 @@
+c:\users\igors\documents\visual studio 2013\Projects\sql\bin\Debug\sql.exe.config
+c:\users\igors\documents\visual studio 2013\Projects\sql\bin\Debug\sql.exe
+c:\users\igors\documents\visual studio 2013\Projects\sql\bin\Debug\sql.pdb
+c:\users\igors\documents\visual studio 2013\Projects\sql\bin\Debug\mscorlib.dll
+c:\users\igors\documents\visual studio 2013\Projects\sql\bin\Debug\ru\mscorlib.resources.dll
+c:\users\igors\documents\visual studio 2013\Projects\sql\bin\Debug\normidna.nlp
+c:\users\igors\documents\visual studio 2013\Projects\sql\bin\Debug\normnfc.nlp
+c:\users\igors\documents\visual studio 2013\Projects\sql\bin\Debug\normnfd.nlp
+c:\users\igors\documents\visual studio 2013\Projects\sql\bin\Debug\normnfkc.nlp
+c:\users\igors\documents\visual studio 2013\Projects\sql\bin\Debug\normnfkd.nlp
+c:\users\igors\documents\visual studio 2013\Projects\sql\obj\Debug\sql.csprojResolveAssemblyReference.cache
+c:\users\igors\documents\visual studio 2013\Projects\sql\obj\Debug\sql.Properties.Resources.resources
+c:\users\igors\documents\visual studio 2013\Projects\sql\obj\Debug\sql.csproj.GenerateResource.Cache
+c:\users\igors\documents\visual studio 2013\Projects\sql\obj\Debug\sql.exe
+c:\users\igors\documents\visual studio 2013\Projects\sql\obj\Debug\sql.pdb
+E:\123\одесса\sql рабочая\sql\bin\Debug\sql.exe.config
+E:\123\одесса\sql рабочая\sql\obj\Debug\sql.exe
+E:\123\одесса\sql рабочая\sql\obj\Debug\sql.pdb
+E:\123\одесса\sql рабочая\sql\bin\Debug\sql.exe
+E:\123\одесса\sql рабочая\sql\bin\Debug\sql.pdb
+E:\123\одесса\sql рабочая\sql\obj\Debug\sql.Properties.Resources.resources
+E:\123\одесса\sql рабочая\sql\obj\Debug\sql.csproj.GenerateResource.Cache
+E:\123\одесса\sql рабочая\sql\obj\Debug\sql.Form1.resources
+E:\123\одесса\sql рабочая\sql\obj\Debug\sql.csprojResolveAssemblyReference.cache
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!\sql\bin\Debug\sql.exe.config
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!\sql\obj\Debug\sql.exe
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!\sql\obj\Debug\sql.pdb
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!\sql\bin\Debug\sql.exe
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!\sql\bin\Debug\sql.pdb
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!\sql\obj\Debug\sql.csprojResolveAssemblyReference.cache
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!\sql\obj\Debug\sql.Form1.resources
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!\sql\obj\Debug\sql.Properties.Resources.resources
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!\sql\obj\Debug\sql.csproj.GenerateResource.Cache
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!уже\sql\bin\Debug\sql.exe.config
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!уже\sql\obj\Debug\sql.exe
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!уже\sql\obj\Debug\sql.pdb
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!уже\sql\bin\Debug\sql.exe
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!уже\sql\bin\Debug\sql.pdb
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!уже\sql\obj\Debug\sql.csprojResolveAssemblyReference.cache
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!уже\sql\obj\Debug\sql.Form1.resources
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!уже\sql\obj\Debug\sql.Properties.Resources.resources
+C:\Users\IgoR\Desktop\!!!!!!!!!!!!!уже\sql\obj\Debug\sql.csproj.GenerateResource.Cache
+C:\Users\IgoR\Desktop\sql\sql\bin\Debug\sql.exe.config
+C:\Users\IgoR\Desktop\sql\sql\obj\Debug\sql.exe
+C:\Users\IgoR\Desktop\sql\sql\obj\Debug\sql.pdb
+C:\Новая папка\сама база\sql\bin\Debug\sql.exe.config
+C:\Новая папка\сама база\sql\obj\Debug\sql.exe
+C:\Новая папка\сама база\sql\obj\Debug\sql.pdb
+C:\Новая папка\сама база\sql\bin\Debug\sql.exe
+C:\Новая папка\сама база\sql\bin\Debug\sql.pdb
+C:\Новая папка\сама база\sql\obj\Debug\sql.csprojResolveAssemblyReference.cache
+C:\Новая папка\сама база\sql\obj\Debug\sql.Form1.resources
+C:\Новая папка\сама база\sql\obj\Debug\sql.Properties.Resources.resources
+C:\Новая папка\сама база\sql\obj\Debug\sql.csproj.GenerateResource.Cache
+C:\Users\IgoR\Desktop\РЕЗЮМЕ\sql\sql\bin\Debug\sql.exe.config
+C:\Users\IgoR\Desktop\РЕЗЮМЕ\sql\sql\obj\Debug\sql.exe
+C:\Users\IgoR\Desktop\РЕЗЮМЕ\sql\sql\obj\Debug\sql.pdb

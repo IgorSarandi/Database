@@ -1,0 +1,8 @@
+C:\Users\IgoR\Desktop\РЕЗЮМЕ\sql\sql\bin\Release\sql.exe.config
+C:\Users\IgoR\Desktop\РЕЗЮМЕ\sql\sql\bin\Release\sql.exe
+C:\Users\IgoR\Desktop\РЕЗЮМЕ\sql\sql\bin\Release\sql.pdb
+C:\Users\IgoR\Desktop\РЕЗЮМЕ\sql\sql\obj\Release\sql.Form1.resources
+C:\Users\IgoR\Desktop\РЕЗЮМЕ\sql\sql\obj\Release\sql.Properties.Resources.resources
+C:\Users\IgoR\Desktop\РЕЗЮМЕ\sql\sql\obj\Release\sql.csproj.GenerateResource.Cache
+C:\Users\IgoR\Desktop\РЕЗЮМЕ\sql\sql\obj\Release\sql.exe
+C:\Users\IgoR\Desktop\РЕЗЮМЕ\sql\sql\obj\Release\sql.pdb
